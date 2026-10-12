@@ -1,0 +1,28 @@
+services:
+
+  mediawiki:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: dai-mediawiki
+    ports:
+      - "8080:80"
+    volumes:
+      - mediawiki_data:/var/www/html
+    depends_on:
+      - database
+
+  database:
+    image: mariadb:11
+    container_name: dai-mediawiki-db
+    environment:
+      MYSQL_DATABASE: mediawiki
+      MYSQL_USER: wiki
+      MYSQL_PASSWORD: wiki_password
+      MYSQL_ROOT_PASSWORD: root_password
+    volumes:
+      - database_data:/var/lib/mysql
+
+volumes:
+  mediawiki_data:
+  database_data:
