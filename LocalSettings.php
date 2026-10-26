@@ -142,15 +142,18 @@ wfLoadSkin( 'Vector' );
 # End of automatically generated settings.
 # Add more configuration options below.
 
-
+wfLoadExtension( 'ParserFunctions' );
 wfLoadExtension( 'SemanticMediaWiki' );
 wfLoadExtension( 'UniversalLanguageSelector' );
 wfLoadExtension( 'Translate' );
 
-$wgEnablePageTranslation = true;
+$wgPageLanguageUseDB = true;
+$wgTranslateDocumentationLanguageCode = 'qqq';
+$wgULSAnonCanChangeLanguage = true;
+$wgULSLanguageDetection = false;
+$wgULSGeoService = false;
 
 $wgGroupPermissions['sysop']['pagetranslation'] = true;
 $wgGroupPermissions['sysop']['translate-manage'] = true;
-
 $wgGroupPermissions['user']['translate'] = true;
 $wgGroupPermissions['user']['translate-messagereview'] = true;

@@ -1,0 +1,2215 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" version="0.11" xml:lang="en">
+  <page>
+    <title>MediaWiki:Dai-lang</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">en</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-lang/sk</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">sk</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-empty</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">—</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-empty/sk</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">—</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-name</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Name</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-name/sk</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Meno</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-degree</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Academic degree</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-degree/sk</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Akademický titul</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-position</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Position</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-position/sk</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Funkcia</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-unit</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Department</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-unit/sk</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Pracovisko</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-courses</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Courses</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-courses/sk</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Predmety</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-research</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Research</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-research/sk</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Výskum</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-contact</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Room, phone, e-mail</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-contact/sk</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Miestnosť, telefón, e-mail</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-supervises</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Supervises</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-supervises/sk</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Vedie</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-program</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Study program</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-program/sk</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Študijný program</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-supervisor</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Supervisor</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-supervisor/sk</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Školiteľ</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-thesis</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Thesis</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-thesis/sk</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Záverečná práca</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-author</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Author</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-author/sk</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Autor</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-slovak-title</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Slovak title</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-slovak-title/sk</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Slovenský názov</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-taught-by</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Taught by</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-taught-by/sk</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Vyučujú</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-researched-by</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Researched by</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-researched-by/sk</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Skúmajú</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-held-by</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Held by</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-held-by/sk</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Zastávajú</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-students</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Students</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-students/sk</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Študenti</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-parent</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Part of</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-parent/sk</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Súčasť</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-head</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Head</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-head/sk</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Vedúci</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-members</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Members</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-members/sk</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Členovia</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-subunits</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Departments</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-subunits/sk</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Oddelenia</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-role</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Role of the department</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-role/sk</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Rola oddelenia</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-course</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Course</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-course/sk</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Predmet</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-area</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Research area</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-area/sk</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Výskumná oblasť</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-position-page</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Position</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-position-page/sk</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Funkcia</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-prop-position</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Academic position</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-prop-position/sk</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Academic position.Name sk</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-prop-courses</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Teaches</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-prop-courses/sk</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Teaches.Name sk</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-prop-research</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">ResearchArea</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-prop-research/sk</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">ResearchArea.Name sk</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-test-teachers</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">All teachers</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-test-teachers/sk</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Všetci učitelia</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-test-courses</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Courses and who teaches them</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-test-courses/sk</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Predmety a ich vyučujúci</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-test-supervised</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Students supervised by Ján Kľuka</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-test-supervised/sk</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Študenti Jána Kľuku</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-test-assoc</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Associate professors</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-test-assoc/sk</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Docenti</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-test-phd</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Teachers holding a PhD.</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-test-phd/sk</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Učitelia s titulom PhD.</text>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Person</title>
+    <ns>14</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Class of the DAI Knowledge Graph model.</text>
+    </revision>
+  </page>
+  <page>
+    <title>Category:AcademicStaff</title>
+    <ns>14</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Class of the DAI Knowledge Graph model.
+[[Category:Person]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Teacher</title>
+    <ns>14</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Class of the DAI Knowledge Graph model.
+[[Category:AcademicStaff]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Professor</title>
+    <ns>14</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Class of the DAI Knowledge Graph model.
+[[Category:Teacher]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Category:AssociateProfessor</title>
+    <ns>14</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Class of the DAI Knowledge Graph model.
+[[Category:Teacher]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Assistant</title>
+    <ns>14</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Class of the DAI Knowledge Graph model.
+[[Category:Teacher]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Student</title>
+    <ns>14</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Class of the DAI Knowledge Graph model.
+[[Category:Person]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Alumni</title>
+    <ns>14</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Class of the DAI Knowledge Graph model.
+[[Category:Person]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Category:ExternalCollaborator</title>
+    <ns>14</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Class of the DAI Knowledge Graph model.
+[[Category:Person]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Department</title>
+    <ns>14</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Class of the DAI Knowledge Graph model.</text>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Course</title>
+    <ns>14</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Class of the DAI Knowledge Graph model.</text>
+    </revision>
+  </page>
+  <page>
+    <title>Category:ResearchArea</title>
+    <ns>14</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Class of the DAI Knowledge Graph model.</text>
+    </revision>
+  </page>
+  <page>
+    <title>Category:StudyProgram</title>
+    <ns>14</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Class of the DAI Knowledge Graph model.</text>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Thesis</title>
+    <ns>14</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Class of the DAI Knowledge Graph model.</text>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Position</title>
+    <ns>14</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Class of the DAI Knowledge Graph model.</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Teaches</title>
+    <ns>102</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Teacher to Course
+
+[[Has type::Page]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:ResearchArea</title>
+    <ns>102</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Teacher to ResearchArea
+
+[[Has type::Page]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:MemberOf</title>
+    <ns>102</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Person to Department
+
+[[Has type::Page]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Part of</title>
+    <ns>102</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Department to Department
+
+[[Has type::Page]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Supervisor</title>
+    <ns>102</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Student to Teacher; Thesis to Teacher
+
+[[Has type::Page]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Author</title>
+    <ns>102</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Thesis to Student
+
+[[Has type::Page]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Thesis</title>
+    <ns>102</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Student to Thesis
+
+[[Has type::Page]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:StudyProgram</title>
+    <ns>102</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Student to StudyProgram
+
+[[Has type::Page]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Academic degree</title>
+    <ns>102</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Academic degree (RNDr., Mgr., Ing., PhD., doc.)
+
+[[Has type::Text]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Academic position</title>
+    <ns>102</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Academic position (Associate Professor, Assistant Professor, Head of Department)
+
+[[Has type::Page]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Name sk</title>
+    <ns>102</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Slovak name of the page
+
+[[Has type::Text]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Full name</title>
+    <ns>102</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Full name
+
+[[Has type::Text]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Room</title>
+    <ns>102</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Room
+
+[[Has type::Text]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Phone</title>
+    <ns>102</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Phone
+
+[[Has type::Text]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Email</title>
+    <ns>102</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">E-mail
+
+[[Has type::Email]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Template:L</title>
+    <ns>10</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">&lt;includeonly&gt;{{#ifeq:{{PAGELANGUAGE}}|sk|{{MediaWiki:Dai-{{{1}}}/sk}}|{{int:dai-{{{1}}}}}}}&lt;/includeonly&gt;
+&lt;noinclude&gt;Returns an interface label in the language of the page when it is a Slovak translation page, otherwise in the interface language of the reader.&lt;/noinclude&gt;</text>
+    </revision>
+  </page>
+  <page>
+    <title>Template:LocalizedLink</title>
+    <ns>10</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">&lt;includeonly&gt;&lt;div&gt;[[{{{1}}}|{{#ifeq:{{L|lang}}|sk|{{#if:{{{2|}}}|{{{2}}}|{{{1}}}}}|{{{1}}}}}]]&lt;/div&gt;&lt;/includeonly&gt;
+&lt;noinclude&gt;Renders a link whose caption follows the interface language. Parameter 1 is the target page, parameter 2 is its Slovak name.&lt;/noinclude&gt;</text>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Teacher</title>
+    <ns>10</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">&lt;includeonly&gt;{{#ifeq:{{PAGELANGUAGE}}|en|{{#set:
+ |Full name={{{name|{{PAGENAME}}}}}
+ |Academic degree={{{degree|}}}|+sep=,
+ |Academic position={{{position|}}}|+sep=,
+ |MemberOf={{{department|}}}
+ |Teaches={{{courses|}}}|+sep=,
+ |ResearchArea={{{research|}}}|+sep=,
+ |Room={{{room|}}}
+ |Phone={{{phone|}}}
+ |Email={{{email|}}}
+}}[[Category:Teacher]][[Category:{{{type|Teacher}}}]]}}
+{| class="wikitable"
+! colspan="2" | {{{name|{{PAGENAME}}}}}
+|-
+! {{L|label-degree}}
+| {{{degree|}}}
+|-
+! {{L|label-position}}
+| {{#ask: [[-Academic position::{{FULLPAGENAME}}]] |?Name sk |format=template |template=LocalizedLink |link=none |default={{L|empty}}}}
+|-
+! {{L|label-unit}}
+| {{#ask: [[{{{department|}}}]] |?Name sk |format=template |template=LocalizedLink |link=none |default={{L|empty}}}}
+|-
+! {{L|label-courses}}
+| {{#ask: [[-Teaches::{{FULLPAGENAME}}]] |?Name sk |format=template |template=LocalizedLink |link=none |default={{L|empty}}}}
+|-
+! {{L|label-research}}
+| {{#ask: [[-ResearchArea::{{FULLPAGENAME}}]] |?Name sk |format=template |template=LocalizedLink |link=none |default={{L|empty}}}}
+|-
+! {{L|label-contact}}
+| {{{room|}}}, {{{phone|}}}, {{{email|}}}
+|-
+! {{L|label-supervises}}
+| {{#ask: [[Supervisor::{{FULLPAGENAME}}]][[Category:Student]] |format=list |link=all |default={{L|empty}}}}
+|}&lt;/includeonly&gt;
+&lt;noinclude&gt;Usage: &lt;code&gt;&lt;nowiki&gt;{{Teacher|name=|degree=doc., RNDr., PhD.|position=Associate Professor, Head of Department|department=|courses=A, B, C|research=x, y|room=|phone=|email=|type=AssociateProfessor}}&lt;/nowiki&gt;&lt;/code&gt;
+Values of degree, position, courses and research are separated by commas.&lt;/noinclude&gt;</text>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Student</title>
+    <ns>10</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">&lt;includeonly&gt;{{#ifeq:{{PAGELANGUAGE}}|en|{{#set:
+ |Full name={{{name|{{PAGENAME}}}}}
+ |StudyProgram={{{program|}}}
+ |Supervisor={{{supervisor|}}}|+sep=,
+ |Thesis={{{thesis|}}}
+ |MemberOf={{{department|}}}
+}}[[Category:Student]]}}
+{| class="wikitable"
+! colspan="2" | {{{name|{{PAGENAME}}}}}
+|-
+! {{L|label-program}}
+| {{#ask: [[-StudyProgram::{{FULLPAGENAME}}]] |?Name sk |format=template |template=LocalizedLink |link=none |default={{L|empty}}}}
+|-
+! {{L|label-supervisor}}
+| {{#show: {{FULLPAGENAME}} |?Supervisor |link=all}}
+|-
+! {{L|label-thesis}}
+| {{#ask: [[-Thesis::{{FULLPAGENAME}}]] |?Name sk |format=template |template=LocalizedLink |link=none |default={{L|empty}}}}
+|-
+! {{L|label-unit}}
+| {{#ask: [[{{{department|}}}]] |?Name sk |format=template |template=LocalizedLink |link=none |default={{L|empty}}}}
+|}&lt;/includeonly&gt;</text>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Thesis</title>
+    <ns>10</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">&lt;includeonly&gt;{{#ifeq:{{PAGELANGUAGE}}|en|{{#set:
+ |Author={{{author|}}}
+ |Supervisor={{{supervisor|}}}|+sep=,
+ |Name sk={{{sk|}}}
+}}[[Category:Thesis]]}}
+{| class="wikitable"
+! colspan="2" | {{#ifeq:{{L|lang}}|sk|{{{sk|{{PAGENAME}}}}}|{{PAGENAME}}}}
+|-
+! {{L|label-slovak-title}}
+| {{{sk|}}}
+|-
+! {{L|label-author}}
+| [[{{{author|}}}]]
+|-
+! {{L|label-supervisor}}
+| {{#show: {{FULLPAGENAME}} |?Supervisor |link=all}}
+|}&lt;/includeonly&gt;</text>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Course</title>
+    <ns>10</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">&lt;includeonly&gt;{{#ifeq:{{PAGELANGUAGE}}|en|{{#set:Name sk={{{sk|}}}}}[[Category:Course]]}}
+'''{{L|label-course}}:''' {{#ifeq:{{L|lang}}|sk|{{{sk|{{PAGENAME}}}}}|{{PAGENAME}}}}
+
+'''{{L|label-slovak-title}}:''' {{{sk|}}}
+
+'''{{L|label-taught-by}}:''' {{#ask: [[Teaches::{{FULLPAGENAME}}]] |format=list |link=all |default={{L|empty}}}}&lt;/includeonly&gt;</text>
+    </revision>
+  </page>
+  <page>
+    <title>Template:ResearchArea</title>
+    <ns>10</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">&lt;includeonly&gt;{{#ifeq:{{PAGELANGUAGE}}|en|{{#set:Name sk={{{sk|}}}}}[[Category:ResearchArea]]}}
+'''{{L|label-area}}:''' {{#ifeq:{{L|lang}}|sk|{{{sk|{{PAGENAME}}}}}|{{PAGENAME}}}}
+
+'''{{L|label-slovak-title}}:''' {{{sk|}}}
+
+'''{{L|label-researched-by}}:''' {{#ask: [[ResearchArea::{{FULLPAGENAME}}]] |format=list |link=all |default={{L|empty}}}}&lt;/includeonly&gt;</text>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Position</title>
+    <ns>10</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">&lt;includeonly&gt;{{#ifeq:{{PAGELANGUAGE}}|en|{{#set:Name sk={{{sk|}}}}}[[Category:Position]]}}
+'''{{L|label-position-page}}:''' {{#ifeq:{{L|lang}}|sk|{{{sk|{{PAGENAME}}}}}|{{PAGENAME}}}}
+
+'''{{L|label-slovak-title}}:''' {{{sk|}}}
+
+'''{{L|label-held-by}}:''' {{#ask: [[Academic position::{{FULLPAGENAME}}]] |format=list |link=all |default={{L|empty}}}}&lt;/includeonly&gt;</text>
+    </revision>
+  </page>
+  <page>
+    <title>Template:StudyProgram</title>
+    <ns>10</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">&lt;includeonly&gt;{{#ifeq:{{PAGELANGUAGE}}|en|{{#set:Name sk={{{sk|}}}}}[[Category:StudyProgram]]}}
+'''{{L|label-program}}:''' {{#ifeq:{{L|lang}}|sk|{{{sk|{{PAGENAME}}}}}|{{PAGENAME}}}}
+
+'''{{L|label-slovak-title}}:''' {{{sk|}}}
+
+'''{{L|label-students}}:''' {{#ask: [[StudyProgram::{{FULLPAGENAME}}]] |format=list |link=all |default={{L|empty}}}}&lt;/includeonly&gt;</text>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Department</title>
+    <ns>10</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">&lt;includeonly&gt;{{#ifeq:{{PAGELANGUAGE}}|en|{{#set:
+ |Part of={{{parent|}}}
+ |Name sk={{{sk|}}}
+}}[[Category:Department]]}}
+{| class="wikitable"
+! colspan="2" | {{#ifeq:{{L|lang}}|sk|{{{sk|{{PAGENAME}}}}}|{{PAGENAME}}}}
+|-
+! {{L|label-slovak-title}}
+| {{{sk|}}}
+|-
+! {{L|label-parent}}
+| {{#if:{{{parent|}}}|{{#ask: [[{{{parent|}}}]] |?Name sk |format=template |template=LocalizedLink |link=none }}|{{L|empty}}}}
+|-
+! {{L|label-head}}
+| {{#if:{{{head|}}}|[[{{{head}}}]]|{{L|empty}}}}
+|}&lt;/includeonly&gt;</text>
+    </revision>
+  </page>
+  <page>
+    <title>Template:DepartmentMembers</title>
+    <ns>10</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">&lt;includeonly&gt;=={{L|label-members}}==
+{{#ask: [[MemberOf::{{{dept}}}]][[Category:Teacher]]
+ |?Academic degree={{L|label-degree}}
+ |?{{L|prop-position}}={{L|label-position}}
+ |?{{L|prop-courses}}={{L|label-courses}}
+ |?{{L|prop-research}}={{L|label-research}}
+ |format=table |link=all |mainlabel={{L|label-name}} |default={{L|empty}}}}&lt;/includeonly&gt;</text>
+    </revision>
+  </page>
+  <page>
+    <title>Department of Applied Informatics</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">&lt;languages /&gt;
+{{Department|sk=Katedra aplikovanej informatiky}}
+&lt;translate&gt;
+&lt;!-- T:1 --&gt;
+The Department of Applied Informatics (DAI) at the Faculty of Mathematics, Physics and Informatics, Comenius University in Bratislava, provides bachelor and master programmes in Applied Informatics and the international master programme in Cognitive Science. Its research covers computer graphics and vision, artificial intelligence, computational modelling and the theory of programming.
+&lt;/translate&gt;
+
+=={{L|label-subunits}}==
+{{#ask: [[Part of::Department of Applied Informatics]] |?Name sk |format=template |template=LocalizedLink |link=none |default={{L|empty}}}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Department of Artificial Intelligence</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">&lt;languages /&gt;
+{{Department|parent=Department of Applied Informatics|head=Martin Homola|sk=Oddelenie umelej inteligencie}}
+&lt;translate&gt;
+&lt;!-- T:1 --&gt;
+The Department of Artificial Intelligence is a unit of the Department of Applied Informatics, Comenius University in Bratislava.
+&lt;/translate&gt;
+
+=={{L|label-role}}==
+&lt;translate&gt;
+&lt;!-- T:2 --&gt;
+The department provides teaching and research in artificial intelligence: knowledge representation, logic and ontologies, machine learning and neural networks, complex network theory and language modelling. It contributes to the courses of the Applied Informatics and Cognitive Science programmes and supervises student theses.
+&lt;/translate&gt;
+
+{{DepartmentMembers|dept=Department of Artificial Intelligence}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Applied Informatics</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">&lt;languages /&gt;
+{{StudyProgram|sk=Aplikovaná informatika}}
+&lt;translate&gt;
+&lt;!-- T:1 --&gt;
+Bachelor study programme provided by the Department of Applied Informatics.
+&lt;/translate&gt;</text>
+    </revision>
+  </page>
+  <page>
+    <title>Translations:Department of Applied Informatics/Page display title/sk</title>
+    <ns>1198</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Katedra aplikovanej informatiky</text>
+    </revision>
+  </page>
+  <page>
+    <title>Translations:Department of Applied Informatics/1/sk</title>
+    <ns>1198</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Katedra aplikovanej informatiky (KAI) na Fakulte matematiky, fyziky a informatiky Univerzity Komenského v Bratislave zabezpečuje bakalárske a magisterské štúdium Aplikovanej informatiky a medzinárodný magisterský program Kognitívna veda. Výskum sa zameriava na počítačovú grafiku a videnie, umelú inteligenciu, výpočtové modelovanie a teóriu programovania.</text>
+    </revision>
+  </page>
+  <page>
+    <title>Translations:Department of Artificial Intelligence/Page display title/sk</title>
+    <ns>1198</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Oddelenie umelej inteligencie</text>
+    </revision>
+  </page>
+  <page>
+    <title>Translations:Department of Artificial Intelligence/1/sk</title>
+    <ns>1198</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Oddelenie umelej inteligencie je súčasťou Katedry aplikovanej informatiky Univerzity Komenského v Bratislave.</text>
+    </revision>
+  </page>
+  <page>
+    <title>Translations:Department of Artificial Intelligence/2/sk</title>
+    <ns>1198</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Oddelenie zabezpečuje výučbu a výskum v oblasti umelej inteligencie: reprezentácia znalostí, logika a ontológie, strojové učenie a neurónové siete, teória komplexných sietí a jazykové modelovanie. Podieľa sa na výučbe predmetov programov Aplikovaná informatika a Kognitívna veda a na vedení záverečných prác.</text>
+    </revision>
+  </page>
+  <page>
+    <title>Translations:Applied Informatics/Page display title/sk</title>
+    <ns>1198</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Aplikovaná informatika</text>
+    </revision>
+  </page>
+  <page>
+    <title>Translations:Applied Informatics/1/sk</title>
+    <ns>1198</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Bakalársky študijný program, ktorý zabezpečuje Katedra aplikovanej informatiky.</text>
+    </revision>
+  </page>
+  <page>
+    <title>Associate Professor</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Position|sk=Docent}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Assistant Professor</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Position|sk=Odborný asistent}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Head of Department</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Position|sk=Vedúci oddelenia}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>IT Secretary</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Position|sk=Tajomník pre IT}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Computational Logic</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Course|sk=Výpočtová logika}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Knowledge Representation and Inference</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Course|sk=Reprezentácia znalostí a inferencia}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Description Logics – Ontologies and the Semantic Web</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Course|sk=Deskripčné logiky, ontológie a sémantický web}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Modern Approach to Web Design</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Course|sk=Moderný prístup k webdizajnu}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Web Technologies in Teaching</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Course|sk=Webové technológie vo vyučovaní}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Mathematics (4) – Logic for Computer Scientists</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Course|sk=Matematika (4) – Logika pre informatikov}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Foundations of Artificial Intelligence (1)</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Course|sk=Základy umelej inteligencie (1)}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Foundations of Artificial Intelligence (2)</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Course|sk=Základy umelej inteligencie (2)}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Evolutionary Algorithms</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Course|sk=Evolučné algoritmy}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Introduction to Artificial Intelligence</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Course|sk=Úvod do umelej inteligencie}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Discrete Mathematics (1)</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Course|sk=Diskrétna matematika (1)}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Discrete Mathematics (2)</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Course|sk=Diskrétna matematika (2)}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Neural Networks</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Course|sk=Neurónové siete}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Logic for Computer Scientists</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Course|sk=Logika pre informatikov}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Creative Writing</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Course|sk=Tvorivé písanie}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Deductive Databases</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Course|sk=Deduktívne databázy}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Knowledge Representation</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{ResearchArea|sk=reprezentácia znalostí}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Ontologies</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{ResearchArea|sk=ontológie}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Semantic Web</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{ResearchArea|sk=sémantický web}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Network Dynamics</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{ResearchArea|sk=dynamika sietí}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Network Theory</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{ResearchArea|sk=teória sietí}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Self-Organization</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{ResearchArea|sk=samoorganizácia}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Language Modelling</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{ResearchArea|sk=jazykové modelovanie}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Neural Networks Research</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{ResearchArea|sk=neurónové siete}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Explainable Artificial Intelligence</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{ResearchArea|sk=vysvetliteľná umelá inteligencia}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Logic Programming</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{ResearchArea|sk=logické programovanie}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Reasoning with Preferences</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{ResearchArea|sk=usudzovanie s preferenciami}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Description Logics</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{ResearchArea|sk=deskripčné logiky}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Martin Homola</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Teacher
+|name=Martin Homola
+|degree=doc., RNDr., PhD.
+|position=Associate Professor, Head of Department
+|department=Department of Artificial Intelligence
+|courses=Computational Logic, Knowledge Representation and Inference, Description Logics – Ontologies and the Semantic Web, Modern Approach to Web Design, Web Technologies in Teaching, Mathematics (4) – Logic for Computer Scientists
+|research=Knowledge Representation, Ontologies, Semantic Web
+|room=I 36
+|phone=+421 2 602 95 109
+|email=homola@fmph.uniba.sk
+|type=AssociateProfessor
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Maria Markosova</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Teacher
+|name=Mária Markošová
+|degree=doc., RNDr., PhD.
+|position=Associate Professor
+|department=Department of Artificial Intelligence
+|courses=Foundations of Artificial Intelligence (1), Foundations of Artificial Intelligence (2), Evolutionary Algorithms
+|research=Network Dynamics, Network Theory, Self-Organization, Language Modelling
+|room=I 34
+|phone=+421 2 602 95 869
+|email=
+|type=AssociateProfessor
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Iveta Beckova</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Teacher
+|name=Iveta Bečková
+|degree=Mgr., PhD.
+|position=Assistant Professor
+|department=Department of Artificial Intelligence
+|courses=Introduction to Artificial Intelligence, Discrete Mathematics (1), Discrete Mathematics (2), Neural Networks, Logic for Computer Scientists
+|research=Neural Networks Research, Explainable Artificial Intelligence
+|room=I 16
+|phone=+421 2 602 95 727
+|email=iveta.beckova@fmph.uniba.sk
+|type=Assistant
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Julia Pukancova</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Teacher
+|name=Júlia Pukancová
+|degree=Mgr., PhD.
+|position=Assistant Professor
+|department=Department of Artificial Intelligence
+|courses=Computational Logic, Knowledge Representation and Inference, Description Logics – Ontologies and the Semantic Web, Mathematics (4) – Logic for Computer Scientists, Creative Writing
+|research=
+|room=I 17
+|phone=+421 2 602 95 389
+|email=pukancova@fmph.uniba.sk
+|type=Assistant
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Alexander Simko</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Teacher
+|name=Alexander Šimko
+|degree=Ing., PhD.
+|position=Assistant Professor
+|department=Department of Artificial Intelligence
+|courses=Deductive Databases
+|research=Knowledge Representation, Logic Programming, Reasoning with Preferences
+|room=I 17
+|phone=+421 2 602 95 389
+|email=alexander.simko@uniba.sk
+|type=Assistant
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Jan Kluka</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Teacher
+|name=Ján Kľuka
+|degree=Mgr., PhD.
+|position=Assistant Professor, IT Secretary
+|department=Department of Artificial Intelligence
+|courses=
+|research=Description Logics
+|room=I 16
+|phone=+421 2 602 95 727
+|email=jan.kluka@fmph.uniba.sk
+|type=Assistant
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Anton Pavliuchenko</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Student
+|name=Anton Pavliuchenko
+|program=Applied Informatics
+|supervisor=Jan Kluka
+|thesis=Knowledge Graph on the Department Website
+|department=Department of Applied Informatics
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Knowledge Graph on the Department Website</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Thesis
+|author=Anton Pavliuchenko
+|supervisor=Jan Kluka
+|sk=Vedomostný graf na webovom sídle katedry
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Test/Ask demo</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-10-26T20:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v4 (English source, Slovak translation)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">=={{L|test-teachers}}==
+{{#ask: [[Category:Teacher]] |?Academic degree={{L|label-degree}} |?{{L|prop-position}}={{L|label-position}} |?{{L|prop-courses}}={{L|label-courses}} |format=table |link=all |mainlabel={{L|label-name}}}}
+
+=={{L|test-courses}}==
+{{#ask: [[Category:Course]] |?-Teaches={{L|label-taught-by}} |format=table |link=all |mainlabel={{L|label-course}}}}
+
+=={{L|test-supervised}}==
+{{#ask: [[Supervisor::Jan Kluka]][[Category:Student]] |format=list |link=all}}
+
+=={{L|test-assoc}}==
+{{#ask: [[Academic position::Associate Professor]] |format=list |link=all}}
+
+=={{L|test-phd}}==
+{{#ask: [[Academic degree::PhD.]] |format=list |link=all}}</text>
+    </revision>
+  </page>
+</mediawiki>
