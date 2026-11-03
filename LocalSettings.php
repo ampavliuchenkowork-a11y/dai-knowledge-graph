@@ -144,6 +144,7 @@ wfLoadSkin( 'Vector' );
 
 wfLoadExtension( 'ParserFunctions' );
 wfLoadExtension( 'SemanticMediaWiki' );
+wfLoadExtension( 'PageForms' );
 wfLoadExtension( 'UniversalLanguageSelector' );
 wfLoadExtension( 'Translate' );
 
@@ -157,3 +158,5 @@ $wgGroupPermissions['sysop']['pagetranslation'] = true;
 $wgGroupPermissions['sysop']['translate-manage'] = true;
 $wgGroupPermissions['user']['translate'] = true;
 $wgGroupPermissions['user']['translate-messagereview'] = true;
+$wgPFEnableStringFunctions = true;
+$wgRestrictDisplayTitle = false;

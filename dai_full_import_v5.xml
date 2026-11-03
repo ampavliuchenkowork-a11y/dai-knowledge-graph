@@ -1,0 +1,3446 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" version="0.11" xml:lang="en">
+  <page>
+    <title>MediaWiki:Dai-lang</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">en</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-lang/sk</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">sk</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-empty</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">—</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-empty/sk</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">—</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-name</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Name</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-name/sk</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Meno</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-position</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Position</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-position/sk</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Funkcia</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-unit</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Department</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-unit/sk</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Pracovisko</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-courses</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Courses</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-courses/sk</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Predmety</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-research</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Research</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-research/sk</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Výskum</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-contact</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Room, phone, e-mail</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-contact/sk</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Miestnosť, telefón, e-mail</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-supervises</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Supervises</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-supervises/sk</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Vedie</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-program</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Study program</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-program/sk</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Študijný program</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-supervisor</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Supervisor</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-supervisor/sk</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Školiteľ</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-thesis</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Thesis</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-thesis/sk</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Záverečná práca</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-author</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Author</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-author/sk</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Autor</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-slovak-title</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Slovak title</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-slovak-title/sk</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Slovenský názov</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-taught-by</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Taught by</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-taught-by/sk</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Vyučujú</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-researched-by</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Researched by</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-researched-by/sk</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Skúmajú</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-held-by</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Held by</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-held-by/sk</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Zastávajú</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-students</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Students</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-students/sk</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Študenti</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-parent</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Part of</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-parent/sk</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Súčasť</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-head</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Head</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-head/sk</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Vedúci</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-members</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Members</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-members/sk</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Členovia</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-subunits</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Departments</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-subunits/sk</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Oddelenia</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-role</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Role of the department</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-role/sk</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Rola oddelenia</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-course</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Course</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-course/sk</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Predmet</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-area</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Research area</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-area/sk</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Výskumná oblasť</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-position-page</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Position</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-position-page/sk</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Funkcia</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-person</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Person</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-person/sk</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Osoba</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-full-title</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Full title and name</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-full-title/sk</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Úplný titul a meno</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-full-name</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Full name</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-full-name/sk</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Celé meno</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-short-name</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Short name</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-short-name/sk</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Skrátené meno</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-roles</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Roles</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-roles/sk</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Roly</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-titles</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Academic titles</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-titles/sk</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Akademické tituly</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-teachers</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Teachers</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-label-teachers/sk</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Vyučujúci</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-prop-position</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Academic position</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-prop-position/sk</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Academic position.Name sk</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-prop-courses</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">-Taught by</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-prop-courses/sk</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">-Taught by.Name sk</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-prop-research</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">ResearchArea</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-prop-research/sk</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">ResearchArea.Name sk</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-ov-teachers</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Teachers and their courses</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-ov-teachers/sk</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Učitelia a ich predmety</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-ov-courses</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Courses and their teachers</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-ov-courses/sk</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Predmety a ich učitelia</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-entry-intro</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Use the buttons to add new entities. To edit an existing page, open it and choose Edit with form.</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-entry-intro/sk</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Tlačidlami pridáte nové entity. Existujúcu stránku upravíte cez Edit with form.</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-test-persons</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">People with a PhD.</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-test-persons/sk</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Osoby s titulom PhD.</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-test-supervised</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Students supervised by Ján Kľuka</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-test-supervised/sk</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Študenti Jána Kľuku</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-test-assoc</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Associate professors</text>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Dai-test-assoc/sk</title>
+    <ns>8</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Docenti</text>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Person</title>
+    <ns>14</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Class of the DAI Knowledge Graph model.
+{{#default_form:Person}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Category:AcademicStaff</title>
+    <ns>14</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Class of the DAI Knowledge Graph model.
+[[Category:Person]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Teacher</title>
+    <ns>14</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Class of the DAI Knowledge Graph model.
+{{#default_form:Teacher}}
+[[Category:AcademicStaff]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Professor</title>
+    <ns>14</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Class of the DAI Knowledge Graph model.
+[[Category:Teacher]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Category:AssociateProfessor</title>
+    <ns>14</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Class of the DAI Knowledge Graph model.
+[[Category:Teacher]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Assistant</title>
+    <ns>14</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Class of the DAI Knowledge Graph model.
+[[Category:Teacher]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Student</title>
+    <ns>14</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Class of the DAI Knowledge Graph model.
+{{#default_form:Student}}
+[[Category:Person]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Alumni</title>
+    <ns>14</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Class of the DAI Knowledge Graph model.
+[[Category:Person]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Category:ExternalCollaborator</title>
+    <ns>14</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Class of the DAI Knowledge Graph model.
+[[Category:Person]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Department</title>
+    <ns>14</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Class of the DAI Knowledge Graph model.</text>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Course</title>
+    <ns>14</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Class of the DAI Knowledge Graph model.
+{{#default_form:Course}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Category:ResearchArea</title>
+    <ns>14</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Class of the DAI Knowledge Graph model.
+{{#default_form:ResearchArea}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Category:StudyProgram</title>
+    <ns>14</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Class of the DAI Knowledge Graph model.</text>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Thesis</title>
+    <ns>14</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Class of the DAI Knowledge Graph model.
+{{#default_form:Thesis}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Position</title>
+    <ns>14</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Class of the DAI Knowledge Graph model.
+{{#default_form:Position}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Person</title>
+    <ns>102</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Teacher or Student role to Person
+
+[[Has type::Page]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Taught by</title>
+    <ns>102</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Course to Teacher (single source of truth for teaching assignments)
+
+[[Has type::Page]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:ResearchArea</title>
+    <ns>102</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Teacher to ResearchArea
+
+[[Has type::Page]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:MemberOf</title>
+    <ns>102</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Teacher or Student to Department
+
+[[Has type::Page]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Part of</title>
+    <ns>102</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Department to Department
+
+[[Has type::Page]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Supervisor</title>
+    <ns>102</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Student or Thesis to Teacher
+
+[[Has type::Page]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Author</title>
+    <ns>102</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Thesis to Student
+
+[[Has type::Page]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Thesis</title>
+    <ns>102</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Student to Thesis
+
+[[Has type::Page]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:StudyProgram</title>
+    <ns>102</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Student to StudyProgram
+
+[[Has type::Page]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Academic position</title>
+    <ns>102</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Teacher to Position
+
+[[Has type::Page]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Name sk</title>
+    <ns>102</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Slovak name of the page
+
+[[Has type::Text]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Full title</title>
+    <ns>102</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Full Slovak name with academic titles (page title of a Person)
+
+[[Has type::Text]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Full name</title>
+    <ns>102</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Given names and family names without titles
+
+[[Has type::Text]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Short name</title>
+    <ns>102</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Short name, for example M. Homola
+
+[[Has type::Text]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Academic title</title>
+    <ns>102</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Academic title of a person (page in Category:Title)
+
+[[Has type::Page]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Given names</title>
+    <ns>102</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">All given names
+
+[[Has type::Text]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Family names</title>
+    <ns>102</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">All family names
+
+[[Has type::Text]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Room</title>
+    <ns>102</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Room
+
+[[Has type::Text]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Phone</title>
+    <ns>102</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Phone
+
+[[Has type::Text]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Email</title>
+    <ns>102</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">E-mail
+
+[[Has type::Email]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Template:L</title>
+    <ns>10</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">&lt;includeonly&gt;{{#ifeq:{{PAGELANGUAGE}}|sk|{{MediaWiki:Dai-{{{1}}}/sk}}|{{int:dai-{{{1}}}}}}}&lt;/includeonly&gt;&lt;noinclude&gt;Returns an interface label in the language of the page when it is a Slovak translation page, otherwise in the interface language of the reader.&lt;/noinclude&gt;</text>
+    </revision>
+  </page>
+  <page>
+    <title>Template:LocalizedLink</title>
+    <ns>10</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">&lt;includeonly&gt;&lt;div&gt;[[{{{1}}}|{{#ifeq:{{L|lang}}|sk|{{#if:{{{2|}}}|{{{2}}}|{{{1}}}}}|{{{1}}}}}]]&lt;/div&gt;&lt;/includeonly&gt;&lt;noinclude&gt;Renders a link whose caption follows the interface language. Parameter 1 is the target page, parameter 2 is its Slovak name.&lt;/noinclude&gt;</text>
+    </revision>
+  </page>
+  <page>
+    <title>Template:TitlesBefore</title>
+    <ns>10</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">&lt;includeonly&gt;{{#if:{{#pos:{{lc:{{{1|}}}}}|prof.}}|prof.&amp;#32;}}{{#if:{{#pos:{{lc:{{{1|}}}}}|doc.}}|doc.&amp;#32;}}{{#if:{{#pos:{{lc:{{{1|}}}}}|rndr.}}|RNDr.&amp;#32;}}{{#if:{{#pos:{{lc:{{{1|}}}}}|paeddr.}}|PaedDr.&amp;#32;}}{{#if:{{#pos:{{lc:{{{1|}}}}}|phdr.}}|PhDr.&amp;#32;}}{{#if:{{#pos:{{lc:{{{1|}}}}}|judr.}}|JUDr.&amp;#32;}}{{#if:{{#pos:{{lc:{{{1|}}}}}|mudr.}}|MUDr.&amp;#32;}}{{#if:{{#pos:{{lc:{{{1|}}}}}|ing.}}|Ing.&amp;#32;}}{{#if:{{#pos:{{lc:{{{1|}}}}}|mgr.}}|Mgr.&amp;#32;}}{{#if:{{#pos:{{lc:{{{1|}}}}}|bc.}}|Bc.&amp;#32;}}&lt;/includeonly&gt;&lt;noinclude&gt;Parameter 1 is the list of titles in any order. Returns the titles that stand before the name, ordered by hierarchy. To add a title edit this template.&lt;/noinclude&gt;</text>
+    </revision>
+  </page>
+  <page>
+    <title>Template:TitlesAfter</title>
+    <ns>10</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">&lt;includeonly&gt;{{#if:{{#pos:{{lc:{{{1|}}}}}|phd.}}|,&amp;#32;PhD.}}{{#if:{{#pos:{{lc:{{{1|}}}}}|csc.}}|,&amp;#32;CSc.}}{{#if:{{#pos:{{lc:{{{1|}}}}}|drsc.}}|,&amp;#32;DrSc.}}{{#if:{{#pos:{{lc:{{{1|}}}}}|mba}}|,&amp;#32;MBA}}{{#if:{{#pos:{{lc:{{{1|}}}}}|msc.}}|,&amp;#32;MSc.}}&lt;/includeonly&gt;&lt;noinclude&gt;Parameter 1 is the list of titles in any order. Returns the titles that stand after the name, ordered by hierarchy.&lt;/noinclude&gt;</text>
+    </revision>
+  </page>
+  <page>
+    <title>Template:FullTitle</title>
+    <ns>10</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">&lt;includeonly&gt;{{TitlesBefore|{{{titles|}}}}}{{{given}}}&amp;#32;{{{family}}}{{TitlesAfter|{{{titles|}}}}}&lt;/includeonly&gt;&lt;noinclude&gt;Builds the full name with titles, for example doc. RNDr. Martin Homola, PhD.&lt;/noinclude&gt;</text>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Initial</title>
+    <ns>10</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">&lt;includeonly&gt;{{#if:{{{1|}}}|{{#sub:{{{1}}}|0|1}}.}}&lt;/includeonly&gt;</text>
+    </revision>
+  </page>
+  <page>
+    <title>Template:ShortName</title>
+    <ns>10</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">&lt;includeonly&gt;{{Initial|{{#explode:{{{given}}}|&amp;#32;|0}}}}{{#if:{{#explode:{{{given}}}|&amp;#32;|1}}|&amp;#32;{{Initial|{{#explode:{{{given}}}|&amp;#32;|1}}}}}}{{#if:{{#explode:{{{given}}}|&amp;#32;|2}}|&amp;#32;{{Initial|{{#explode:{{{given}}}|&amp;#32;|2}}}}}}&amp;#32;{{{family}}}&lt;/includeonly&gt;&lt;noinclude&gt;Builds the short name from the given names, for example M. Homola or A. M. Nováková.&lt;/noinclude&gt;</text>
+    </revision>
+  </page>
+  <page>
+    <title>Prof.</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Academic title. Placement and order are defined in [[Template:TitlesBefore]] and [[Template:TitlesAfter]].
+[[Category:Title]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Doc.</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Academic title. Placement and order are defined in [[Template:TitlesBefore]] and [[Template:TitlesAfter]].
+[[Category:Title]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>RNDr.</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Academic title. Placement and order are defined in [[Template:TitlesBefore]] and [[Template:TitlesAfter]].
+[[Category:Title]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>PaedDr.</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Academic title. Placement and order are defined in [[Template:TitlesBefore]] and [[Template:TitlesAfter]].
+[[Category:Title]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>PhDr.</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Academic title. Placement and order are defined in [[Template:TitlesBefore]] and [[Template:TitlesAfter]].
+[[Category:Title]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>JUDr.</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Academic title. Placement and order are defined in [[Template:TitlesBefore]] and [[Template:TitlesAfter]].
+[[Category:Title]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>MUDr.</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Academic title. Placement and order are defined in [[Template:TitlesBefore]] and [[Template:TitlesAfter]].
+[[Category:Title]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Ing.</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Academic title. Placement and order are defined in [[Template:TitlesBefore]] and [[Template:TitlesAfter]].
+[[Category:Title]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Mgr.</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Academic title. Placement and order are defined in [[Template:TitlesBefore]] and [[Template:TitlesAfter]].
+[[Category:Title]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Bc.</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Academic title. Placement and order are defined in [[Template:TitlesBefore]] and [[Template:TitlesAfter]].
+[[Category:Title]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>PhD.</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Academic title. Placement and order are defined in [[Template:TitlesBefore]] and [[Template:TitlesAfter]].
+[[Category:Title]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>CSc.</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Academic title. Placement and order are defined in [[Template:TitlesBefore]] and [[Template:TitlesAfter]].
+[[Category:Title]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>DrSc.</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Academic title. Placement and order are defined in [[Template:TitlesBefore]] and [[Template:TitlesAfter]].
+[[Category:Title]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>MBA</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Academic title. Placement and order are defined in [[Template:TitlesBefore]] and [[Template:TitlesAfter]].
+[[Category:Title]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>MSc.</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Academic title. Placement and order are defined in [[Template:TitlesBefore]] and [[Template:TitlesAfter]].
+[[Category:Title]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Title</title>
+    <ns>14</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Academic titles.</text>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Person</title>
+    <ns>10</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">&lt;includeonly&gt;{{DISPLAYTITLE:{{FullTitle|titles={{{titles|}}}|given={{{given_names|}}}|family={{{family_names|}}}}}}}{{#ifeq:{{PAGELANGUAGE}}|en|{{#set:
+ |Full title={{FullTitle|titles={{{titles|}}}|given={{{given_names|}}}|family={{{family_names|}}}}}
+ |Academic title={{{titles|}}}|+sep=,
+ |Given names={{{given_names|}}}
+ |Family names={{{family_names|}}}
+ |Full name={{{given_names|}}} {{{family_names|}}}
+ |Short name={{ShortName|given={{{given_names|}}}|family={{{family_names|}}}}}
+ |Email={{{email|}}}
+ |Phone={{{phone|}}}
+ |Room={{{room|}}}
+}}[[Category:Person]]}}
+{| class="wikitable"
+! colspan="2" | {{FullTitle|titles={{{titles|}}}|given={{{given_names|}}}|family={{{family_names|}}}}}
+|-
+! {{L|label-full-title}}
+| {{FullTitle|titles={{{titles|}}}|given={{{given_names|}}}|family={{{family_names|}}}}}
+|-
+! {{L|label-full-name}}
+| {{{given_names|}}} {{{family_names|}}}
+|-
+! {{L|label-short-name}}
+| {{ShortName|given={{{given_names|}}}|family={{{family_names|}}}}}
+|-
+! {{L|label-titles}}
+| {{{titles|}}}
+{{#if:{{{room|}}}{{{phone|}}}{{{email|}}}|&lt;tr&gt;&lt;th&gt;{{L|label-contact}}&lt;/th&gt;&lt;td&gt;{{#if:{{{room|}}}|{{{room}}}}}{{#if:{{{phone|}}}|{{#if:{{{room|}}}|,&amp;#32;}}{{{phone}}}}}{{#if:{{{email|}}}|{{#if:{{{room|}}}{{{phone|}}}|,&amp;#32;}}{{{email}}}}}&lt;/td&gt;&lt;/tr&gt;}}
+{{#ifexpr:{{#ask: [[Person::{{FULLPAGENAME}}]] |format=count}}&gt;0|&lt;tr&gt;&lt;th&gt;{{L|label-roles}}&lt;/th&gt;&lt;td&gt;{{#ask: [[Person::{{FULLPAGENAME}}]] |format=list |link=all}}&lt;/td&gt;&lt;/tr&gt;}}
+|}&lt;/includeonly&gt;&lt;noinclude&gt;The page name is the given names plus the family names, so links show only the name. The heading, the full name with titles and the short name are computed from the fields. Enter titles in any order.&lt;/noinclude&gt;</text>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Teacher</title>
+    <ns>10</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">&lt;includeonly&gt;{{#ifeq:{{PAGELANGUAGE}}|en|{{#set:
+ |Person={{{person|}}}
+ |Academic position={{{position|}}}|+sep=,
+ |MemberOf={{{department|}}}
+ |ResearchArea={{{research|}}}|+sep=,
+}}[[Category:Teacher]][[Category:{{{type|Teacher}}}]]}}
+{| class="wikitable"
+! colspan="2" | {{{person|}}}
+|-
+! {{L|label-person}}
+| [[{{{person|}}}]]
+|-
+! {{L|label-full-title}}
+| {{#show: {{{person|}}} |?Full title}}
+|-
+! {{L|label-full-name}}
+| {{#show: {{{person|}}} |?Full name}}
+|-
+! {{L|label-short-name}}
+| {{#show: {{{person|}}} |?Short name}}
+|-
+! {{L|label-position}}
+| {{#ask: [[-Academic position::{{FULLPAGENAME}}]] |?Name sk |format=template |template=LocalizedLink |link=none |default={{L|empty}}}}
+|-
+! {{L|label-unit}}
+| {{#ask: [[{{{department|}}}]] |?Name sk |format=template |template=LocalizedLink |link=none |default={{L|empty}}}}
+|-
+! {{L|label-courses}}
+| {{#ask: [[Taught by::{{FULLPAGENAME}}]] |?Name sk |format=template |template=LocalizedLink |link=none |default={{L|empty}}}}
+|-
+! {{L|label-research}}
+| {{#ask: [[-ResearchArea::{{FULLPAGENAME}}]] |?Name sk |format=template |template=LocalizedLink |link=none |default={{L|empty}}}}
+|-
+! {{L|label-contact}}
+| {{#show: {{{person|}}} |?Room}}, {{#show: {{{person|}}} |?Phone}}, {{#show: {{{person|}}} |?Email}}
+|-
+! {{L|label-supervises}}
+| {{#ask: [[Supervisor::{{FULLPAGENAME}}]][[Category:Student]] |?Person |mainlabel=- |format=list |link=all |default={{L|empty}}}}
+|}&lt;/includeonly&gt;&lt;noinclude&gt;Courses are not entered here. They are read from the course pages (property Taught by).&lt;/noinclude&gt;</text>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Student</title>
+    <ns>10</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">&lt;includeonly&gt;{{#ifeq:{{PAGELANGUAGE}}|en|{{#set:
+ |Person={{{person|}}}
+ |StudyProgram={{{program|}}}
+ |Supervisor={{{supervisor|}}}|+sep=;
+ |Thesis={{{thesis|}}}
+ |MemberOf={{{department|}}}
+}}[[Category:Student]]}}
+{| class="wikitable"
+! colspan="2" | {{{person|}}}
+|-
+! {{L|label-person}}
+| [[{{{person|}}}]]
+|-
+! {{L|label-program}}
+| {{#ask: [[-StudyProgram::{{FULLPAGENAME}}]] |?Name sk |format=template |template=LocalizedLink |link=none |default={{L|empty}}}}
+|-
+! {{L|label-supervisor}}
+| {{#show: {{FULLPAGENAME}} |?Supervisor.Person |link=all}}
+|-
+! {{L|label-thesis}}
+| {{#ask: [[-Thesis::{{FULLPAGENAME}}]] |?Name sk |format=template |template=LocalizedLink |link=none |default={{L|empty}}}}
+|-
+! {{L|label-unit}}
+| {{#ask: [[{{{department|}}}]] |?Name sk |format=template |template=LocalizedLink |link=none |default={{L|empty}}}}
+|}&lt;/includeonly&gt;</text>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Thesis</title>
+    <ns>10</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">&lt;includeonly&gt;{{#ifeq:{{PAGELANGUAGE}}|en|{{#set:
+ |Author={{{author|}}}
+ |Supervisor={{{supervisor|}}}|+sep=;
+ |Name sk={{{sk|}}}
+}}[[Category:Thesis]]}}
+{| class="wikitable"
+! colspan="2" | {{#ifeq:{{L|lang}}|sk|{{{sk|{{PAGENAME}}}}}|{{PAGENAME}}}}
+|-
+! {{L|label-slovak-title}}
+| {{{sk|}}}
+|-
+! {{L|label-author}}
+| {{#show: {{{author|}}} |?Person |link=all}}
+|-
+! {{L|label-supervisor}}
+| {{#show: {{FULLPAGENAME}} |?Supervisor.Person |link=all}}
+|}&lt;/includeonly&gt;</text>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Course</title>
+    <ns>10</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">&lt;includeonly&gt;{{#ifeq:{{PAGELANGUAGE}}|en|{{#set:
+ |Name sk={{{sk|}}}
+ |Taught by={{{teachers|}}}|+sep=;
+}}[[Category:Course]]}}
+'''{{L|label-course}}:''' {{#ifeq:{{L|lang}}|sk|{{{sk|{{PAGENAME}}}}}|{{PAGENAME}}}}
+
+'''{{L|label-slovak-title}}:''' {{{sk|}}}
+
+'''{{L|label-taught-by}}:''' {{#show: {{FULLPAGENAME}} |?Taught by.Person |link=all |default={{L|empty}}}}&lt;/includeonly&gt;&lt;noinclude&gt;Teachers are entered here (separated by semicolons). Teacher pages read their courses from this property.&lt;/noinclude&gt;</text>
+    </revision>
+  </page>
+  <page>
+    <title>Template:ResearchArea</title>
+    <ns>10</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">&lt;includeonly&gt;{{#ifeq:{{PAGELANGUAGE}}|en|{{#set:Name sk={{{sk|}}}}}[[Category:ResearchArea]]}}
+'''{{L|label-area}}:''' {{#ifeq:{{L|lang}}|sk|{{{sk|{{PAGENAME}}}}}|{{PAGENAME}}}}
+
+'''{{L|label-slovak-title}}:''' {{{sk|}}}
+
+'''{{L|label-researched-by}}:''' {{#ask: [[ResearchArea::{{FULLPAGENAME}}]] |?Person |mainlabel=- |format=list |link=all |default={{L|empty}}}}&lt;/includeonly&gt;</text>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Position</title>
+    <ns>10</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">&lt;includeonly&gt;{{#ifeq:{{PAGELANGUAGE}}|en|{{#set:Name sk={{{sk|}}}}}[[Category:Position]]}}
+'''{{L|label-position-page}}:''' {{#ifeq:{{L|lang}}|sk|{{{sk|{{PAGENAME}}}}}|{{PAGENAME}}}}
+
+'''{{L|label-slovak-title}}:''' {{{sk|}}}
+
+'''{{L|label-held-by}}:''' {{#ask: [[Academic position::{{FULLPAGENAME}}]] |?Person |mainlabel=- |format=list |link=all |default={{L|empty}}}}&lt;/includeonly&gt;</text>
+    </revision>
+  </page>
+  <page>
+    <title>Template:StudyProgram</title>
+    <ns>10</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">&lt;includeonly&gt;{{#ifeq:{{PAGELANGUAGE}}|en|{{#set:Name sk={{{sk|}}}}}[[Category:StudyProgram]]}}
+'''{{L|label-program}}:''' {{#ifeq:{{L|lang}}|sk|{{{sk|{{PAGENAME}}}}}|{{PAGENAME}}}}
+
+'''{{L|label-slovak-title}}:''' {{{sk|}}}
+
+'''{{L|label-students}}:''' {{#ask: [[StudyProgram::{{FULLPAGENAME}}]] |?Person |mainlabel=- |format=list |link=all |default={{L|empty}}}}&lt;/includeonly&gt;</text>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Department</title>
+    <ns>10</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">&lt;includeonly&gt;{{#ifeq:{{PAGELANGUAGE}}|en|{{#set:
+ |Part of={{{parent|}}}
+ |Name sk={{{sk|}}}
+}}[[Category:Department]]}}
+{| class="wikitable"
+! colspan="2" | {{#ifeq:{{L|lang}}|sk|{{{sk|{{PAGENAME}}}}}|{{PAGENAME}}}}
+|-
+! {{L|label-slovak-title}}
+| {{{sk|}}}
+|-
+! {{L|label-parent}}
+| {{#if:{{{parent|}}}|{{#ask: [[{{{parent|}}}]] |?Name sk |format=template |template=LocalizedLink |link=none }}|{{L|empty}}}}
+|-
+! {{L|label-head}}
+| {{#if:{{{head|}}}|[[{{{head}}}]]|{{L|empty}}}}
+|}&lt;/includeonly&gt;</text>
+    </revision>
+  </page>
+  <page>
+    <title>Template:DepartmentMembers</title>
+    <ns>10</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">&lt;includeonly&gt;=={{L|label-members}}==
+{{#ask: [[MemberOf::{{{dept}}}]][[Category:Teacher]][[Person::+]]
+ |?Person={{L|label-name}}
+ |?{{L|prop-position}}={{L|label-position}}
+ |?{{L|prop-courses}}={{L|label-courses}}
+ |?{{L|prop-research}}={{L|label-research}}
+ |format=table |link=all |mainlabel=- |default={{L|empty}}}}&lt;/includeonly&gt;</text>
+    </revision>
+  </page>
+  <page>
+    <title>Department of Applied Informatics</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">&lt;languages /&gt;
+{{Department|sk=Katedra aplikovanej informatiky}}
+&lt;translate&gt;
+&lt;!-- T:1 --&gt;
+The Department of Applied Informatics (DAI) at the Faculty of Mathematics, Physics and Informatics, Comenius University in Bratislava, provides bachelor and master programmes in Applied Informatics and the international master programme in Cognitive Science. Its research covers computer graphics and vision, artificial intelligence, computational modelling and the theory of programming.
+&lt;/translate&gt;
+
+=={{L|label-subunits}}==
+{{#ask: [[Part of::Department of Applied Informatics]] |?Name sk |format=template |template=LocalizedLink |link=none |default={{L|empty}}}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Department of Artificial Intelligence</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">&lt;languages /&gt;
+{{Department|parent=Department of Applied Informatics|head=Martin Homola|sk=Oddelenie umelej inteligencie}}
+&lt;translate&gt;
+&lt;!-- T:1 --&gt;
+The Department of Artificial Intelligence is a unit of the Department of Applied Informatics, Comenius University in Bratislava.
+&lt;/translate&gt;
+
+=={{L|label-role}}==
+&lt;translate&gt;
+&lt;!-- T:2 --&gt;
+The department provides teaching and research in artificial intelligence: knowledge representation, logic and ontologies, machine learning and neural networks, complex network theory and language modelling. It contributes to the courses of the Applied Informatics and Cognitive Science programmes and supervises student theses.
+&lt;/translate&gt;
+
+{{DepartmentMembers|dept=Department of Artificial Intelligence}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Applied Informatics</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">&lt;languages /&gt;
+{{StudyProgram|sk=Aplikovaná informatika}}
+&lt;translate&gt;
+&lt;!-- T:1 --&gt;
+Bachelor study programme provided by the Department of Applied Informatics.
+&lt;/translate&gt;</text>
+    </revision>
+  </page>
+  <page>
+    <title>Translations:Department of Applied Informatics/Page display title/sk</title>
+    <ns>1198</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Katedra aplikovanej informatiky</text>
+    </revision>
+  </page>
+  <page>
+    <title>Translations:Department of Applied Informatics/1/sk</title>
+    <ns>1198</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Katedra aplikovanej informatiky (KAI) na Fakulte matematiky, fyziky a informatiky Univerzity Komenského v Bratislave zabezpečuje bakalárske a magisterské štúdium Aplikovanej informatiky a medzinárodný magisterský program Kognitívna veda. Výskum sa zameriava na počítačovú grafiku a videnie, umelú inteligenciu, výpočtové modelovanie a teóriu programovania.</text>
+    </revision>
+  </page>
+  <page>
+    <title>Translations:Department of Artificial Intelligence/Page display title/sk</title>
+    <ns>1198</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Oddelenie umelej inteligencie</text>
+    </revision>
+  </page>
+  <page>
+    <title>Translations:Department of Artificial Intelligence/1/sk</title>
+    <ns>1198</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Oddelenie umelej inteligencie je súčasťou Katedry aplikovanej informatiky Univerzity Komenského v Bratislave.</text>
+    </revision>
+  </page>
+  <page>
+    <title>Translations:Department of Artificial Intelligence/2/sk</title>
+    <ns>1198</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Oddelenie zabezpečuje výučbu a výskum v oblasti umelej inteligencie: reprezentácia znalostí, logika a ontológie, strojové učenie a neurónové siete, teória komplexných sietí a jazykové modelovanie. Podieľa sa na výučbe predmetov programov Aplikovaná informatika a Kognitívna veda a na vedení záverečných prác.</text>
+    </revision>
+  </page>
+  <page>
+    <title>Translations:Applied Informatics/Page display title/sk</title>
+    <ns>1198</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Aplikovaná informatika</text>
+    </revision>
+  </page>
+  <page>
+    <title>Translations:Applied Informatics/1/sk</title>
+    <ns>1198</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Bakalársky študijný program, ktorý zabezpečuje Katedra aplikovanej informatiky.</text>
+    </revision>
+  </page>
+  <page>
+    <title>Associate Professor</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Position|title=Associate Professor|sk=Docent}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Assistant Professor</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Position|title=Assistant Professor|sk=Odborný asistent}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Head of Department</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Position|title=Head of Department|sk=Vedúci oddelenia}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>IT Secretary</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Position|title=IT Secretary|sk=Tajomník pre IT}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Knowledge Representation</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{ResearchArea|title=Knowledge Representation|sk=reprezentácia znalostí}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Ontologies</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{ResearchArea|title=Ontologies|sk=ontológie}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Semantic Web</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{ResearchArea|title=Semantic Web|sk=sémantický web}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Network Dynamics</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{ResearchArea|title=Network Dynamics|sk=dynamika sietí}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Network Theory</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{ResearchArea|title=Network Theory|sk=teória sietí}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Self-Organization</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{ResearchArea|title=Self-Organization|sk=samoorganizácia}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Language Modelling</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{ResearchArea|title=Language Modelling|sk=jazykové modelovanie}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Neural Networks Research</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{ResearchArea|title=Neural Networks Research|sk=neurónové siete}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Explainable Artificial Intelligence</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{ResearchArea|title=Explainable Artificial Intelligence|sk=vysvetliteľná umelá inteligencia}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Logic Programming</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{ResearchArea|title=Logic Programming|sk=logické programovanie}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Reasoning with Preferences</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{ResearchArea|title=Reasoning with Preferences|sk=usudzovanie s preferenciami}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Description Logics</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{ResearchArea|title=Description Logics|sk=deskripčné logiky}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Martin Homola</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Person
+|given_names=Martin
+|family_names=Homola
+|titles=Doc., RNDr., PhD.
+|email=homola@fmph.uniba.sk
+|phone=+421 2 602 95 109
+|room=I 36
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Teacher: Martin Homola</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Teacher
+|person=Martin Homola
+|position=Associate Professor, Head of Department
+|department=Department of Artificial Intelligence
+|research=Knowledge Representation, Ontologies, Semantic Web
+|type=AssociateProfessor
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>doc. RNDr. Martin Homola, PhD.</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[Martin Homola]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Teacher: doc. RNDr. Martin Homola, PhD.</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[Teacher: Martin Homola]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Doc. RNDr. Martin Homola, PhD.</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[Martin Homola]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Teacher: Doc. RNDr. Martin Homola, PhD.</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[Teacher: Martin Homola]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Mária Markošová</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Person
+|given_names=Mária
+|family_names=Markošová
+|titles=Doc., RNDr., PhD.
+|email=
+|phone=+421 2 602 95 869
+|room=I 34
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Teacher: Mária Markošová</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Teacher
+|person=Mária Markošová
+|position=Associate Professor
+|department=Department of Artificial Intelligence
+|research=Network Dynamics, Network Theory, Self-Organization, Language Modelling
+|type=AssociateProfessor
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Doc. RNDr. Mária Markošová, PhD.</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[Mária Markošová]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Teacher: Doc. RNDr. Mária Markošová, PhD.</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[Teacher: Mária Markošová]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>doc. RNDr. Mária Markošová, PhD.</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[Mária Markošová]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Teacher: doc. RNDr. Mária Markošová, PhD.</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[Teacher: Mária Markošová]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Maria Markosova</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[Mária Markošová]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Iveta Bečková</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Person
+|given_names=Iveta
+|family_names=Bečková
+|titles=Mgr., PhD.
+|email=iveta.beckova@fmph.uniba.sk
+|phone=+421 2 602 95 727
+|room=I 16
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Teacher: Iveta Bečková</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Teacher
+|person=Iveta Bečková
+|position=Assistant Professor
+|department=Department of Artificial Intelligence
+|research=Neural Networks Research, Explainable Artificial Intelligence
+|type=Assistant
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Mgr. Iveta Bečková, PhD.</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[Iveta Bečková]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Teacher: Mgr. Iveta Bečková, PhD.</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[Teacher: Iveta Bečková]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Iveta Beckova</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[Iveta Bečková]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Júlia Pukancová</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Person
+|given_names=Júlia
+|family_names=Pukancová
+|titles=Mgr., PhD.
+|email=pukancova@fmph.uniba.sk
+|phone=+421 2 602 95 389
+|room=I 17
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Teacher: Júlia Pukancová</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Teacher
+|person=Júlia Pukancová
+|position=Assistant Professor
+|department=Department of Artificial Intelligence
+|research=
+|type=Assistant
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Julia Pukancova</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[Júlia Pukancová]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Mgr. Júlia Pukancová, PhD.</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[Júlia Pukancová]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Teacher: Mgr. Júlia Pukancová, PhD.</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[Teacher: Júlia Pukancová]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Alexander Šimko</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Person
+|given_names=Alexander
+|family_names=Šimko
+|titles=Ing., PhD.
+|email=alexander.simko@uniba.sk
+|phone=+421 2 602 95 389
+|room=I 17
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Teacher: Alexander Šimko</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Teacher
+|person=Alexander Šimko
+|position=Assistant Professor
+|department=Department of Artificial Intelligence
+|research=Knowledge Representation, Logic Programming, Reasoning with Preferences
+|type=Assistant
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Ing. Alexander Šimko, PhD.</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[Alexander Šimko]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Teacher: Ing. Alexander Šimko, PhD.</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[Teacher: Alexander Šimko]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Alexander Simko</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[Alexander Šimko]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Ján Kľuka</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Person
+|given_names=Ján
+|family_names=Kľuka
+|titles=Mgr., PhD.
+|email=jan.kluka@fmph.uniba.sk
+|phone=+421 2 602 95 727
+|room=I 16
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Teacher: Ján Kľuka</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Teacher
+|person=Ján Kľuka
+|position=Assistant Professor, IT Secretary
+|department=Department of Artificial Intelligence
+|research=Description Logics
+|type=Assistant
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Mgr. Ján Kľuka, PhD.</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[Ján Kľuka]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Teacher: Mgr. Ján Kľuka, PhD.</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[Teacher: Ján Kľuka]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Jan Kluka</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[Ján Kľuka]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Computational Logic</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Course
+|title=Computational Logic
+|sk=Výpočtová logika
+|teachers=Teacher: Martin Homola; Teacher: Júlia Pukancová
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Knowledge Representation and Inference</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Course
+|title=Knowledge Representation and Inference
+|sk=Reprezentácia znalostí a inferencia
+|teachers=Teacher: Martin Homola; Teacher: Júlia Pukancová
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Description Logics – Ontologies and the Semantic Web</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Course
+|title=Description Logics – Ontologies and the Semantic Web
+|sk=Deskripčné logiky, ontológie a sémantický web
+|teachers=Teacher: Martin Homola; Teacher: Júlia Pukancová
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Modern Approach to Web Design</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Course
+|title=Modern Approach to Web Design
+|sk=Moderný prístup k webdizajnu
+|teachers=Teacher: Martin Homola
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Web Technologies in Teaching</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Course
+|title=Web Technologies in Teaching
+|sk=Webové technológie vo vyučovaní
+|teachers=Teacher: Martin Homola
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Mathematics (4) – Logic for Computer Scientists</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Course
+|title=Mathematics (4) – Logic for Computer Scientists
+|sk=Matematika (4) – Logika pre informatikov
+|teachers=Teacher: Martin Homola; Teacher: Júlia Pukancová
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Foundations of Artificial Intelligence (1)</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Course
+|title=Foundations of Artificial Intelligence (1)
+|sk=Základy umelej inteligencie (1)
+|teachers=Teacher: Mária Markošová
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Foundations of Artificial Intelligence (2)</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Course
+|title=Foundations of Artificial Intelligence (2)
+|sk=Základy umelej inteligencie (2)
+|teachers=Teacher: Mária Markošová
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Evolutionary Algorithms</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Course
+|title=Evolutionary Algorithms
+|sk=Evolučné algoritmy
+|teachers=Teacher: Mária Markošová
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Introduction to Artificial Intelligence</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Course
+|title=Introduction to Artificial Intelligence
+|sk=Úvod do umelej inteligencie
+|teachers=Teacher: Iveta Bečková
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Discrete Mathematics (1)</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Course
+|title=Discrete Mathematics (1)
+|sk=Diskrétna matematika (1)
+|teachers=Teacher: Iveta Bečková
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Discrete Mathematics (2)</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Course
+|title=Discrete Mathematics (2)
+|sk=Diskrétna matematika (2)
+|teachers=Teacher: Iveta Bečková
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Neural Networks</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Course
+|title=Neural Networks
+|sk=Neurónové siete
+|teachers=Teacher: Iveta Bečková
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Logic for Computer Scientists</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Course
+|title=Logic for Computer Scientists
+|sk=Logika pre informatikov
+|teachers=Teacher: Iveta Bečková
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Creative Writing</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Course
+|title=Creative Writing
+|sk=Tvorivé písanie
+|teachers=Teacher: Júlia Pukancová
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Deductive Databases</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Course
+|title=Deductive Databases
+|sk=Deduktívne databázy
+|teachers=Teacher: Alexander Šimko
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Anton Pavliuchenko</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Person
+|given_names=Anton
+|family_names=Pavliuchenko
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Student: Anton Pavliuchenko</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Student
+|person=Anton Pavliuchenko
+|program=Applied Informatics
+|supervisor=Teacher: Ján Kľuka
+|thesis=Knowledge Graph on the Department Website
+|department=Department of Applied Informatics
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Knowledge Graph on the Department Website</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Thesis
+|title=Knowledge Graph on the Department Website
+|author=Student: Anton Pavliuchenko
+|supervisor=Teacher: Ján Kľuka
+|sk=Vedomostný graf na webovom sídle katedry
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Teaching overview</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">=={{L|ov-teachers}}==
+{{#ask: [[Category:Teacher]][[Person::+]] |?Person={{L|label-name}} |?{{L|prop-courses}}={{L|label-courses}} |format=table |link=all |mainlabel=-}}
+
+=={{L|ov-courses}}==
+{{#ask: [[Category:Course]][[Taught by::+]] |?Taught by.Person={{L|label-teachers}} |format=table |link=all |mainlabel={{L|label-course}}}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Test/Ask demo</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">=={{L|test-persons}}==
+{{#ask: [[Category:Person]][[Academic title::PhD.]] |?Full title |?Short name |format=table |link=all |mainlabel={{L|label-name}}}}
+
+=={{L|test-supervised}}==
+{{#ask: [[Supervisor::Teacher: Ján Kľuka]][[Category:Student]] |?Person |mainlabel=- |format=list |link=all}}
+
+=={{L|test-assoc}}==
+{{#ask: [[Academic position::Associate Professor]] |?Person |mainlabel=- |format=list |link=all}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Form:Person</title>
+    <ns>106</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">&lt;noinclude&gt;Form for adding and editing: person.&lt;/noinclude&gt;&lt;includeonly&gt;
+{{{info|add title=Add person|edit title=Edit person|page name=&lt;Person[given_names]&gt; &lt;Person[family_names]&gt;}}}
+{{{for template|Person}}}
+{| class="formtable"
+! Given names (all of them)
+| {{{field|given_names|mandatory|size=40}}}
+|-
+! Family names (all of them)
+| {{{field|family_names|mandatory|size=40}}}
+|-
+! Academic titles (any order, comma separated)
+| {{{field|titles|input type=tokens|values from category=Title|existing values only|list|delimiter=,}}}
+|-
+! E-mail
+| {{{field|email|size=40}}}
+|-
+! Phone
+| {{{field|phone|size=25}}}
+|-
+! Room
+| {{{field|room|size=15}}}
+|}
+{{{end template}}}
+
+{{{standard input|summary}}}
+
+{{{standard input|save}}} {{{standard input|preview}}} {{{standard input|changes}}} {{{standard input|cancel}}}
+&lt;/includeonly&gt;</text>
+    </revision>
+  </page>
+  <page>
+    <title>Form:Teacher</title>
+    <ns>106</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">&lt;noinclude&gt;Form for adding and editing: teacher.&lt;/noinclude&gt;&lt;includeonly&gt;
+{{{info|add title=Add teacher|edit title=Edit teacher|page name=Teacher: &lt;Teacher[person]&gt;}}}
+{{{for template|Teacher}}}
+{| class="formtable"
+! Person
+| {{{field|person|mandatory|input type=combobox|values from category=Person|existing values only}}}
+|-
+! Department
+| {{{field|department|input type=combobox|values from category=Department|existing values only}}}
+|-
+! Positions (comma separated)
+| {{{field|position|input type=tokens|values from category=Position|list|delimiter=,}}}
+|-
+! Research areas (comma separated)
+| {{{field|research|input type=tokens|values from category=ResearchArea|list|delimiter=,}}}
+|-
+! Class
+| {{{field|type|input type=dropdown|values=Teacher,Professor,AssociateProfessor,Assistant}}}
+|}
+{{{end template}}}
+
+{{{standard input|summary}}}
+
+{{{standard input|save}}} {{{standard input|preview}}} {{{standard input|changes}}} {{{standard input|cancel}}}
+&lt;/includeonly&gt;</text>
+    </revision>
+  </page>
+  <page>
+    <title>Form:Student</title>
+    <ns>106</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">&lt;noinclude&gt;Form for adding and editing: student.&lt;/noinclude&gt;&lt;includeonly&gt;
+{{{info|add title=Add student|edit title=Edit student|page name=Student: &lt;Student[person]&gt;}}}
+{{{for template|Student}}}
+{| class="formtable"
+! Person
+| {{{field|person|mandatory|input type=combobox|values from category=Person|existing values only}}}
+|-
+! Study program
+| {{{field|program|input type=combobox|values from category=StudyProgram|existing values only}}}
+|-
+! Supervisors (semicolon separated)
+| {{{field|supervisor|input type=tokens|values from category=Teacher|list|delimiter=;}}}
+|-
+! Thesis
+| {{{field|thesis|input type=combobox|values from category=Thesis|existing values only}}}
+|-
+! Department
+| {{{field|department|input type=combobox|values from category=Department|existing values only}}}
+|}
+{{{end template}}}
+
+{{{standard input|summary}}}
+
+{{{standard input|save}}} {{{standard input|preview}}} {{{standard input|changes}}} {{{standard input|cancel}}}
+&lt;/includeonly&gt;</text>
+    </revision>
+  </page>
+  <page>
+    <title>Form:Course</title>
+    <ns>106</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">&lt;noinclude&gt;Form for adding and editing: course.&lt;/noinclude&gt;&lt;includeonly&gt;
+{{{info|add title=Add course|edit title=Edit course|page name=&lt;Course[title]&gt;}}}
+{{{for template|Course}}}
+{| class="formtable"
+! Course title (English, used as page title)
+| {{{field|title|mandatory|size=60}}}
+|-
+! Slovak name
+| {{{field|sk|size=60}}}
+|-
+! Teachers (semicolon separated)
+| {{{field|teachers|input type=tokens|values from category=Teacher|list|delimiter=;}}}
+|}
+{{{end template}}}
+
+{{{standard input|summary}}}
+
+{{{standard input|save}}} {{{standard input|preview}}} {{{standard input|changes}}} {{{standard input|cancel}}}
+&lt;/includeonly&gt;</text>
+    </revision>
+  </page>
+  <page>
+    <title>Form:Thesis</title>
+    <ns>106</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">&lt;noinclude&gt;Form for adding and editing: thesis.&lt;/noinclude&gt;&lt;includeonly&gt;
+{{{info|add title=Add thesis|edit title=Edit thesis|page name=&lt;Thesis[title]&gt;}}}
+{{{for template|Thesis}}}
+{| class="formtable"
+! Thesis title (English, used as page title)
+| {{{field|title|mandatory|size=60}}}
+|-
+! Slovak title
+| {{{field|sk|size=60}}}
+|-
+! Author
+| {{{field|author|input type=combobox|values from category=Student|existing values only}}}
+|-
+! Supervisors (semicolon separated)
+| {{{field|supervisor|input type=tokens|values from category=Teacher|list|delimiter=;}}}
+|}
+{{{end template}}}
+
+{{{standard input|summary}}}
+
+{{{standard input|save}}} {{{standard input|preview}}} {{{standard input|changes}}} {{{standard input|cancel}}}
+&lt;/includeonly&gt;</text>
+    </revision>
+  </page>
+  <page>
+    <title>Form:ResearchArea</title>
+    <ns>106</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">&lt;noinclude&gt;Form for adding and editing: research area.&lt;/noinclude&gt;&lt;includeonly&gt;
+{{{info|add title=Add research area|edit title=Edit research area|page name=&lt;ResearchArea[title]&gt;}}}
+{{{for template|ResearchArea}}}
+{| class="formtable"
+! Title (English)
+| {{{field|title|mandatory|size=40}}}
+|-
+! Slovak name
+| {{{field|sk|size=40}}}
+|}
+{{{end template}}}
+
+{{{standard input|summary}}}
+
+{{{standard input|save}}} {{{standard input|preview}}} {{{standard input|changes}}} {{{standard input|cancel}}}
+&lt;/includeonly&gt;</text>
+    </revision>
+  </page>
+  <page>
+    <title>Form:Position</title>
+    <ns>106</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">&lt;noinclude&gt;Form for adding and editing: position.&lt;/noinclude&gt;&lt;includeonly&gt;
+{{{info|add title=Add position|edit title=Edit position|page name=&lt;Position[title]&gt;}}}
+{{{for template|Position}}}
+{| class="formtable"
+! Title (English)
+| {{{field|title|mandatory|size=40}}}
+|-
+! Slovak name
+| {{{field|sk|size=40}}}
+|}
+{{{end template}}}
+
+{{{standard input|summary}}}
+
+{{{standard input|save}}} {{{standard input|preview}}} {{{standard input|changes}}} {{{standard input|cancel}}}
+&lt;/includeonly&gt;</text>
+    </revision>
+  </page>
+  <page>
+    <title>Data entry</title>
+    <ns>0</ns>
+    <revision>
+      <timestamp>2026-11-03T13:00:00Z</timestamp>
+      <contributor><username>Admin</username></contributor>
+      <comment>DAI KG import v7 (whitespace and empty rows fixed)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{L|entry-intro}}
+
+* {{#formlink:form=Person|link text=Add person|link type=button}}
+* {{#formlink:form=Teacher|link text=Add teacher role|link type=button}}
+* {{#formlink:form=Student|link text=Add student role|link type=button}}
+* {{#formlink:form=Course|link text=Add course|link type=button}}
+* {{#formlink:form=Thesis|link text=Add thesis|link type=button}}
+* {{#formlink:form=ResearchArea|link text=Add research area|link type=button}}
+* {{#formlink:form=Position|link text=Add position|link type=button}}</text>
+    </revision>
+  </page>
+</mediawiki>

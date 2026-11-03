@@ -9,7 +9,7 @@ COPY --from=composer:2 /usr/bin/composer /usr/local/bin/composer
 
 WORKDIR /var/www/html
 
-RUN printf '{\n  "require": {\n    "mediawiki/semantic-media-wiki": "7.3.1"\n  }\n}\n' > composer.local.json \
+RUN printf '{\n  "require": {\n    "mediawiki/semantic-media-wiki": "7.3.1",\n    "mediawiki/page-forms": "^6.0.8"\n  }\n}\n' > composer.local.json \
     && composer update --no-dev --no-interaction --prefer-dist
 
 RUN cd extensions \
